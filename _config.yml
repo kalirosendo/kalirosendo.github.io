@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Kali's Kitten Photos
+title: Foster Beasts
 
 # The title on the web page
-full_name: Kali Rosendo
+full_name: Foster Beasts
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -36,10 +36,10 @@ instagram: fosterbeasts
 ######################
 #
 # Name of your gallery (this will show up at the top of your page and in the RSS feed)
-name: Gallery
+name: The Berries
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Photography Portfolio
+description: Test - where is this text
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Kali Rosendo
