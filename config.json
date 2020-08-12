@@ -1,206 +1,208 @@
 {
-  "General": [
+  "Other Kittens": [
     {
       "width": 2305,
       "height": 1537,
-      "path": "./photos/General/1.jpg",
-      "compressed_path": "./photos/General/1.min.jpg",
+      "path": "./photos/Other Kittens/8.jpg",
+      "compressed_path": "./photos/Other Kittens/8.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/1.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/8.placeholder.jpg"
     },
     {
       "width": 509,
       "height": 339,
-      "path": "./photos/General/10.jpg",
-      "compressed_path": "./photos/General/10.min.jpg",
+      "path": "./photos/Other Kittens/9.jpg",
+      "compressed_path": "./photos/Other Kittens/9.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/10.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/9.placeholder.jpg"
     },
     {
       "width": 2305,
       "height": 1537,
-      "path": "./photos/General/11.jpg",
-      "compressed_path": "./photos/General/11.min.jpg",
+      "path": "./photos/Other Kittens/14.jpg",
+      "compressed_path": "./photos/Other Kittens/14.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/11.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/14.placeholder.jpg"
     },
     {
       "width": 381,
       "height": 254,
-      "path": "./photos/General/12.jpg",
-      "compressed_path": "./photos/General/12.min.jpg",
+      "path": "./photos/Other Kittens/12.jpg",
+      "compressed_path": "./photos/Other Kittens/12.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/12.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/12.placeholder.jpg"
     },
     {
       "width": 509,
       "height": 339,
-      "path": "./photos/General/13.jpg",
-      "compressed_path": "./photos/General/13.min.jpg",
+      "path": "./photos/Other Kittens/13.jpg",
+      "compressed_path": "./photos/Other Kittens/13.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/13.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/13.placeholder.jpg"
     },
     {
       "width": 2305,
       "height": 1537,
-      "path": "./photos/General/14.jpg",
-      "compressed_path": "./photos/General/14.min.jpg",
+      "path": "./photos/Other Kittens/11.jpg",
+      "compressed_path": "./photos/Other Kittens/11.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/14.placeholder.jpg"
-    },
-    {
-      "width": 2305,
-      "height": 1537,
-      "path": "./photos/General/2.jpg",
-      "compressed_path": "./photos/General/2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/General/2.placeholder.jpg"
-    },
-    {
-      "width": 2305,
-      "height": 1537,
-      "path": "./photos/General/3.jpg",
-      "compressed_path": "./photos/General/3.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/General/3.placeholder.jpg"
-    },
-    {
-      "width": 2305,
-      "height": 1537,
-      "path": "./photos/General/4.jpg",
-      "compressed_path": "./photos/General/4.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/General/4.placeholder.jpg"
-    },
-    {
-      "width": 2305,
-      "height": 1537,
-      "path": "./photos/General/5.jpg",
-      "compressed_path": "./photos/General/5.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/General/5.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/11.placeholder.jpg"
     },
     {
       "width": 509,
       "height": 339,
-      "path": "./photos/General/6.jpg",
-      "compressed_path": "./photos/General/6.min.jpg",
+      "path": "./photos/Other Kittens/10.jpg",
+      "compressed_path": "./photos/Other Kittens/10.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/6.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/10.placeholder.jpg"
     },
     {
       "width": 2305,
       "height": 1537,
-      "path": "./photos/General/7.jpg",
-      "compressed_path": "./photos/General/7.min.jpg",
+      "path": "./photos/Other Kittens/4.jpg",
+      "compressed_path": "./photos/Other Kittens/4.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/7.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/4.placeholder.jpg"
     },
     {
       "width": 2305,
       "height": 1537,
-      "path": "./photos/General/8.jpg",
-      "compressed_path": "./photos/General/8.min.jpg",
+      "path": "./photos/Other Kittens/5.jpg",
+      "compressed_path": "./photos/Other Kittens/5.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/8.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/5.placeholder.jpg"
+    },
+    {
+      "width": 2305,
+      "height": 1537,
+      "path": "./photos/Other Kittens/7.jpg",
+      "compressed_path": "./photos/Other Kittens/7.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Other Kittens/7.placeholder.jpg"
     },
     {
       "width": 509,
       "height": 339,
-      "path": "./photos/General/9.jpg",
-      "compressed_path": "./photos/General/9.min.jpg",
+      "path": "./photos/Other Kittens/6.jpg",
+      "compressed_path": "./photos/Other Kittens/6.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/General/9.placeholder.jpg"
+      "placeholder_path": "./photos/Other Kittens/6.placeholder.jpg"
+    },
+    {
+      "width": 2305,
+      "height": 1537,
+      "path": "./photos/Other Kittens/2.jpg",
+      "compressed_path": "./photos/Other Kittens/2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Other Kittens/2.placeholder.jpg"
+    },
+    {
+      "width": 2305,
+      "height": 1537,
+      "path": "./photos/Other Kittens/3.jpg",
+      "compressed_path": "./photos/Other Kittens/3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Other Kittens/3.placeholder.jpg"
+    },
+    {
+      "width": 2305,
+      "height": 1537,
+      "path": "./photos/Other Kittens/1.jpg",
+      "compressed_path": "./photos/Other Kittens/1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Other Kittens/1.placeholder.jpg"
     }
   ],
-  "The Pastries": [
+  "Danish and Strudel": [
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/307a02fe-999e-41a9-843b-35bb90c8e6e7.jpg",
-      "compressed_path": "./photos/The Pastries/307a02fe-999e-41a9-843b-35bb90c8e6e7.min.jpg",
+      "path": "./photos/Danish and Strudel/7e22acaa-6dc2-49af-a4c3-d01115d3ad2a.jpg",
+      "compressed_path": "./photos/Danish and Strudel/7e22acaa-6dc2-49af-a4c3-d01115d3ad2a.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/307a02fe-999e-41a9-843b-35bb90c8e6e7.placeholder.jpg"
+      "placeholder_path": "./photos/Danish and Strudel/7e22acaa-6dc2-49af-a4c3-d01115d3ad2a.placeholder.jpg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/374fe4d9-3998-406d-b4b2-bb7ebbb8bd97.jpg",
-      "compressed_path": "./photos/The Pastries/374fe4d9-3998-406d-b4b2-bb7ebbb8bd97.min.jpg",
+      "path": "./photos/Danish and Strudel/70cbd0db-f17e-4ee0-8545-6abe5daa5498.jpg",
+      "compressed_path": "./photos/Danish and Strudel/70cbd0db-f17e-4ee0-8545-6abe5daa5498.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/374fe4d9-3998-406d-b4b2-bb7ebbb8bd97.placeholder.jpg"
+      "placeholder_path": "./photos/Danish and Strudel/70cbd0db-f17e-4ee0-8545-6abe5daa5498.placeholder.jpg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/43b87fa3-5a3e-4e82-a4bf-2e3963909000.jpg",
-      "compressed_path": "./photos/The Pastries/43b87fa3-5a3e-4e82-a4bf-2e3963909000.min.jpg",
+      "path": "./photos/Danish and Strudel/57438b37-e2bc-4261-be62-12e92d6dcf5d.jpg",
+      "compressed_path": "./photos/Danish and Strudel/57438b37-e2bc-4261-be62-12e92d6dcf5d.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/43b87fa3-5a3e-4e82-a4bf-2e3963909000.placeholder.jpg"
+      "placeholder_path": "./photos/Danish and Strudel/57438b37-e2bc-4261-be62-12e92d6dcf5d.placeholder.jpg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/57438b37-e2bc-4261-be62-12e92d6dcf5d.jpg",
-      "compressed_path": "./photos/The Pastries/57438b37-e2bc-4261-be62-12e92d6dcf5d.min.jpg",
+      "path": "./photos/Danish and Strudel/374fe4d9-3998-406d-b4b2-bb7ebbb8bd97.jpg",
+      "compressed_path": "./photos/Danish and Strudel/374fe4d9-3998-406d-b4b2-bb7ebbb8bd97.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/57438b37-e2bc-4261-be62-12e92d6dcf5d.placeholder.jpg"
+      "placeholder_path": "./photos/Danish and Strudel/374fe4d9-3998-406d-b4b2-bb7ebbb8bd97.placeholder.jpg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/70cbd0db-f17e-4ee0-8545-6abe5daa5498.jpg",
-      "compressed_path": "./photos/The Pastries/70cbd0db-f17e-4ee0-8545-6abe5daa5498.min.jpg",
+      "path": "./photos/Danish and Strudel/8e6b15aa-2306-45a3-bd18-a40d79206690.jpg",
+      "compressed_path": "./photos/Danish and Strudel/8e6b15aa-2306-45a3-bd18-a40d79206690.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/70cbd0db-f17e-4ee0-8545-6abe5daa5498.placeholder.jpg"
+      "placeholder_path": "./photos/Danish and Strudel/8e6b15aa-2306-45a3-bd18-a40d79206690.placeholder.jpg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/7e22acaa-6dc2-49af-a4c3-d01115d3ad2a.jpg",
-      "compressed_path": "./photos/The Pastries/7e22acaa-6dc2-49af-a4c3-d01115d3ad2a.min.jpg",
+      "path": "./photos/Danish and Strudel/fe38477d-d3ac-4334-b8d9-3f280a58af1c.jpg",
+      "compressed_path": "./photos/Danish and Strudel/fe38477d-d3ac-4334-b8d9-3f280a58af1c.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/7e22acaa-6dc2-49af-a4c3-d01115d3ad2a.placeholder.jpg"
+      "placeholder_path": "./photos/Danish and Strudel/fe38477d-d3ac-4334-b8d9-3f280a58af1c.placeholder.jpg"
+    }
+  ],
+  "Little bebes": [
+    {
+      "width": 2172,
+      "height": 1448,
+      "path": "./photos/Little bebes/ec4e1847-a467-404d-92c4-78c5c2f9bcd3.jpg",
+      "compressed_path": "./photos/Little bebes/ec4e1847-a467-404d-92c4-78c5c2f9bcd3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Little bebes/ec4e1847-a467-404d-92c4-78c5c2f9bcd3.placeholder.jpg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/8e6b15aa-2306-45a3-bd18-a40d79206690.jpg",
-      "compressed_path": "./photos/The Pastries/8e6b15aa-2306-45a3-bd18-a40d79206690.min.jpg",
+      "path": "./photos/Little bebes/43b87fa3-5a3e-4e82-a4bf-2e3963909000.jpg",
+      "compressed_path": "./photos/Little bebes/43b87fa3-5a3e-4e82-a4bf-2e3963909000.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/8e6b15aa-2306-45a3-bd18-a40d79206690.placeholder.jpg"
+      "placeholder_path": "./photos/Little bebes/43b87fa3-5a3e-4e82-a4bf-2e3963909000.placeholder.jpg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/ab4c2214-bf32-436f-8ea3-610676cdb6a0.jpg",
-      "compressed_path": "./photos/The Pastries/ab4c2214-bf32-436f-8ea3-610676cdb6a0.min.jpg",
+      "path": "./photos/Little bebes/ab4c2214-bf32-436f-8ea3-610676cdb6a0.jpg",
+      "compressed_path": "./photos/Little bebes/ab4c2214-bf32-436f-8ea3-610676cdb6a0.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/ab4c2214-bf32-436f-8ea3-610676cdb6a0.placeholder.jpg"
+      "placeholder_path": "./photos/Little bebes/ab4c2214-bf32-436f-8ea3-610676cdb6a0.placeholder.jpg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/bf4a916d-f69f-4c1b-987b-921d9ffcc037.jpg",
-      "compressed_path": "./photos/The Pastries/bf4a916d-f69f-4c1b-987b-921d9ffcc037.min.jpg",
+      "path": "./photos/Little bebes/307a02fe-999e-41a9-843b-35bb90c8e6e7.jpg",
+      "compressed_path": "./photos/Little bebes/307a02fe-999e-41a9-843b-35bb90c8e6e7.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/bf4a916d-f69f-4c1b-987b-921d9ffcc037.placeholder.jpg"
+      "placeholder_path": "./photos/Little bebes/307a02fe-999e-41a9-843b-35bb90c8e6e7.placeholder.jpg"
     },
     {
       "width": 2172,
       "height": 1448,
-      "path": "./photos/The Pastries/ec4e1847-a467-404d-92c4-78c5c2f9bcd3.jpg",
-      "compressed_path": "./photos/The Pastries/ec4e1847-a467-404d-92c4-78c5c2f9bcd3.min.jpg",
+      "path": "./photos/Little bebes/bf4a916d-f69f-4c1b-987b-921d9ffcc037.jpg",
+      "compressed_path": "./photos/Little bebes/bf4a916d-f69f-4c1b-987b-921d9ffcc037.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/The Pastries/ec4e1847-a467-404d-92c4-78c5c2f9bcd3.placeholder.jpg"
-    },
-    {
-      "width": 2172,
-      "height": 1448,
-      "path": "./photos/The Pastries/fe38477d-d3ac-4334-b8d9-3f280a58af1c.jpg",
-      "compressed_path": "./photos/The Pastries/fe38477d-d3ac-4334-b8d9-3f280a58af1c.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/The Pastries/fe38477d-d3ac-4334-b8d9-3f280a58af1c.placeholder.jpg"
+      "placeholder_path": "./photos/Little bebes/bf4a916d-f69f-4c1b-987b-921d9ffcc037.placeholder.jpg"
     }
   ]
 }
