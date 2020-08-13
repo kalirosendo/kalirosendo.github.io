@@ -19,6 +19,10 @@ class Config {
   photos(album) {
     return this.data[album];
   }
+
+  discriptions(album){
+    return this.galleryOrder[album];
+  }
 }
 
 /**
@@ -45,12 +49,20 @@ class Renderer {
     return this._rootElem;
   }
 
-  createHeader(title) {
+  createHeader(title, description) {
+    //Create the section
     var sectionElem = document.createElement('section');
     sectionElem.id = title;
+
+    //create the header and add to section
     var header = document.createElement('h3');
     header.innerHTML = title;
     sectionElem.appendChild(header);
+
+    //create the description and add to section
+    var para = document.createElement('p');
+    para.innerHTML = description;
+    sectionElem.appendChild(para);
     return sectionElem;
   }
 
@@ -95,7 +107,7 @@ class VerticalRenderer extends Renderer {
    * Creates one album
    */
   createSection(config, section, photos) {
-    var sectionElem = this.createHeader(section);
+    var sectionElem = this.createHeader(section, config.discriptions(section));
     var length = config.columns
     var width = (this._currentWidth - config.spacing * (config.columns-1)) * 1.0 / config.columns;
 
@@ -180,7 +192,7 @@ class SquareRenderer extends Renderer {
    * Creates an album section
    */
   createSection(config, section, photos) {
-    var sectionElem = this.createHeader(section);
+    var sectionElem = this.createHeader(section, config.discriptions(section));
 
     // In column format, we want to precompute the height of each cell, so that
     // the last row can have a matching width and align itself to rows above.
@@ -270,7 +282,7 @@ class HorizontalRenderer extends Renderer {
     if (config.shuffle) {
       shuffle(photos);
     }
-    var sectionElem = this.createHeader(section);
+    var sectionElem = this.createHeader(section, config.discriptions(section));
 
     while (photos.length > 0) {
       var maxWidth = config.spacing * -1;

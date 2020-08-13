@@ -76,6 +76,11 @@ def write_config(config):
     with open(PATH + 'config.json', 'w') as f:
         f.write(json.dumps(config, indent=2, separators=(',', ': ')))
 
+//NEW
+def get_gallery_order(path):
+    pass
+//NEW
+
 
 def run():
     print('Starting to collect all albums within the /photos directory...')
