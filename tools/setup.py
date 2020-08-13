@@ -31,7 +31,7 @@ def get_directories():
     items = os.listdir(PHOTO_PATH)
     return list(filter(lambda x: os.path.isdir(PHOTO_PATH + '/' + x), items))
 
-
+#todo - make this not case sensitive
 def is_image_path(path):
     return re.search(r'\.(jpe?g|png)$', path)
 
@@ -76,10 +76,10 @@ def write_config(config):
     with open(PATH + 'config.json', 'w') as f:
         f.write(json.dumps(config, indent=2, separators=(',', ': ')))
 
-//NEW
+#NEW
 def get_gallery_order(path):
     pass
-//NEW
+#NEW
 
 
 def run():
