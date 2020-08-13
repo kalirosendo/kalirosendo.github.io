@@ -4,6 +4,11 @@
  */
 class Config {
   constructor(config, opts) {
+    //New
+    this.galleryOrder = config.galleryOrder
+    console.log(this.galleryOrder)
+    delete config.galleryOrder
+    //New
     this.data = config;
     this.maxHeight = opts.maxHeight || 400;
     this.spacing = opts.spacing || 10;
