@@ -60,7 +60,7 @@ class Renderer {
     sectionElem.appendChild(header);
 
     //create the description and add to section
-    var para = document.createElement('p');
+    var para = document.createElement('h4');
     para.innerHTML = description;
     sectionElem.appendChild(para);
     return sectionElem;
