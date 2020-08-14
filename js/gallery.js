@@ -267,7 +267,7 @@ class SquareRenderer extends Renderer {
  */
 class HorizontalRenderer extends Renderer {
   render(config) {
-    for (var section in config.data) {
+    for (var section in config.galleryOrder) {
       var section = this.createSection(config,
         section,
         this.getPhotos(config, config.photos(section)));
